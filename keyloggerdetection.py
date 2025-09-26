@@ -1,6 +1,5 @@
 import psutil
 
-# Suspicious keywords often used in keyloggers
 SUSPICIOUS = ["keylog", "logkeys", "keylogger", "keyboard"]
 
 print("=== Keylogger Detection Program ===")
